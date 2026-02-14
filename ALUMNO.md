@@ -28,3 +28,5 @@ Mi reflexión final:
 Lo más importante que aprendí de git es que me va a servir muchísimo en futuros proyectos, como lo pueden ser proyecto como la creación de videojuegos que es lo que me gustaría enfocarme, esto me va a servir mucho para poder organizarmer, al tener una increíble gestión y control al momento de organizarse para un proyecto.
 
 Fecha: 13 de febrero del 2026
+
+https://github.com/AlonsoGuevara02/Mi-Proyecto-Practica
